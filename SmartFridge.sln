@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartFridge", "SmartFridge\SmartFridge.csproj", "{2640C851-ED08-417A-A3F5-0D33BF25048D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "ClassLibrary1\ClassLibrary1.csproj", "{D6D85B39-3DD2-4B68-A216-2CE3B8E3177F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2640C851-ED08-417A-A3F5-0D33BF25048D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2640C851-ED08-417A-A3F5-0D33BF25048D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2640C851-ED08-417A-A3F5-0D33BF25048D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2640C851-ED08-417A-A3F5-0D33BF25048D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6D85B39-3DD2-4B68-A216-2CE3B8E3177F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6D85B39-3DD2-4B68-A216-2CE3B8E3177F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6D85B39-3DD2-4B68-A216-2CE3B8E3177F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6D85B39-3DD2-4B68-A216-2CE3B8E3177F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04FAFDC4-2273-40DE-B958-33CAC9270B8C}
+	EndGlobalSection
+EndGlobal
